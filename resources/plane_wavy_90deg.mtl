@@ -1,0 +1,13 @@
+# Blender MTL File: 'plane_wavy.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800656 0.747572 0.034914
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump normals_waves_90deg.png

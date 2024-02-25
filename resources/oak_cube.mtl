@@ -1,0 +1,13 @@
+# Blender MTL File: 'oak_cube.blend'
+# Material Count: 1
+
+newmtl Material.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.517333 0.293586 0.131721
+Ks 0.100000 0.100000 0.100000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump oak_normals_4k.png
